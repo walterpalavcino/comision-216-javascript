@@ -1,1 +1,9 @@
-alert("hello word")
+
+console.log( "hola mundo")
+
+console.log(
+    {
+        nombre: "walter",
+        apellido: "palavcino",
+    }
+);
